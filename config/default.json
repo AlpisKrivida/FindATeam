@@ -1,0 +1,7 @@
+{
+    "mongoURI": "mongodb+srv://alpis132:alpis123@devconnector-fx9px.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "secretToken",
+    "githubClientId": "379c77c5feaaaf6524fd",
+    "githubSecret":"a9c63a7a09682478a56e6fb46a594b8d5444078b",
+    "testmongoURI": "mongodb+srv://alpiskr:alpiskr@testing-avq4m.mongodb.net/test?retryWrites=true&w=majority"
+}
